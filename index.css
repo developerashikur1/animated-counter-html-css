@@ -1,6 +1,7 @@
 body {
   display: grid;
   place-items: center;
+  align-items: center;
   height: 97vh;
   background: #00092f;
 }
@@ -50,32 +51,32 @@ body {
   }
 }
 .n1 {
-  animation-iteration-count: 30;
+  animation-iteration-count: 20;
 }
 .n2 {
-  animation-iteration-count: 27;
-}
-.n3 {
-  animation-iteration-count: 24;
-}
-.n4 {
-  animation-iteration-count: 21;
-}
-.n5 {
   animation-iteration-count: 18;
 }
-.n6 {
-  animation-iteration-count: 15;
+.n3 {
+  animation-iteration-count: 16;
 }
-.n7 {
+.n4 {
+  animation-iteration-count: 14;
+}
+.n5 {
   animation-iteration-count: 12;
 }
-.n8 {
-  animation-iteration-count: 9;
+.n6 {
+  animation-iteration-count: 10;
 }
-.n9 {
+.n7 {
+  animation-iteration-count: 8;
+}
+.n8 {
   animation-iteration-count: 6;
 }
+.n9 {
+  animation-iteration-count: 4;
+}
 .n10 {
-  animation-iteration-count: 3;
+  animation-iteration-count: 2;
 }
